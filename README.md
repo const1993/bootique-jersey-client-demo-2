@@ -1,4 +1,4 @@
-# bootique-mvc-demo
+# bootique-jersey-client-demo
 
 Simple [Bootique](http://bootique.io) app demonstrating the Bootique Jersy Clieny Module.
 
